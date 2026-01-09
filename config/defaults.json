@@ -11,7 +11,7 @@
   "signinUrl": "",
   "signupUrl": "",
   "settingsUrl": "",
-  "staff": [],
+  "staff": ["xtian7489@gmail.com"],
   "verifyUserRequestEmail": "",
   "allowEmailAliases": true,
   "facebookSignin": false,
@@ -27,7 +27,7 @@
     "facebook": {
       "clientID": "",
       "clientSecret": "",
-      "permissions": [ "email" ]
+      "permissions": ["email"]
     }
   },
   "https": {
@@ -109,9 +109,9 @@
     }
   },
   "imgs": {
-    "logo": "/lib/frontend/site/home-multiforum/logo-header",
-    "logoMobile": "/lib/frontend/site/home-multiforum/logo-header",
-    "logoFooter": "/lib/frontend/site/home-multiforum/logo-footer",
+    "logo": "/lib/frontend/site/home-multiforum/logo-footer-incubadora",
+    "logoMobile": "/lib/frontend/site/home-multiforum/logo-footer-incubadora",
+    "logoFooter": "/lib/frontend/site/home-multiforum/logo-footer-incubadora",
     "logoCentralHome": "/lib/frontend/site/home-multiforum/logo-central-home",
     "backgroundHome": "/lib/frontend/site/home-multiforum/background-home",
     "iconoHomeInformate": "/lib/frontend/site/home-multiforum/icono-home-informate",
@@ -119,10 +119,10 @@
     "iconoHomeComparti": "/lib/frontend/site/home-multiforum/icono-home-comparti",
     "favicon": "/lib/boot/favicon"
   },
-  "organizationName": "Consultas Digitales",
+  "organizationName": "Voces Inclusivas CR",
   "organizationEmail": "it@democracyos.org",
-  "bajadaPlataforma": "Construyamos un país más abierto, transparente y colaborativo.",
-  "organizationUrl": "https://github.com/DemocraciaEnRed/consultas-digitales",
+  "bajadaPlataforma": "Espacio de participación y deliberación ciudadana que reúne los debates sobre discapacidad, inclusión y democracia en Costa Rica, con el objetivo de incidir en la agenda pública y política.",
+  "organizationUrl": "https://github.com/DemocraciaEnRed/consultas-voces-inclusivas",
   "learnMoreUrl": "",
   "googleAnalyticsTrackingId": "",
   "spamLimit": 5,
@@ -143,10 +143,7 @@
   "tweetText": "",
   "forceSafeImageURLs": true,
   "segmentKey": "",
-  "availableLocales": [
-    "es",
-    "en"
-  ],
+  "availableLocales": ["es", "en"],
   "enforceLocale": true,
   "allowPublicAccess": true,
   "allowPublicSignUp": true

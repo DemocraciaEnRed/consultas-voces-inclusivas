@@ -1,19 +1,20 @@
 # Acerca de este sitio
 
-Consultas Digitales es una plataforma de código abierto, de fácil instalación y personalizable que busca favorecer la participación, el debate y la interacción entre entidades y personas sobre diversas temáticas. Su versatilidad permite el uso por parte tanto de organismos estatales como entes de la sociedad civil.
-
-Esta herramienta fue pensada por Democracia en Red, una organización argentina fundada en 2014 con el objetivo de crear soluciones de participación ciudadana con gobiernos y activistas para fortalecer la democracia. Consultas digitales busca ser parte de un proceso de apertura en las instituciones públicas y los procesos de toma de decisión para recuperar la política a partir de diagnósticos que apuntan a la acción. En este sentido, la herramienta permite la participación de la ciudadanía para debatir, informarse y votar sobre diferentes temáticas.
+Voces Inclusivas CR es un sitio web de participación ciudadana impulsado por Incubadora de Liderazgos +CR, que promueve el diálogo público, la deliberación y la incidencia democrática a través de consultas públicas digitales.
+Su propósito es habilitar espacios accesibles para recibir opiniones, propuestas, comentarios y aportes de la ciudadanía, en particular de personas con discapacidad y sus comunidades, sobre temas de interés público, políticas, iniciativas y agendas relevantes para la vida democrática en Costa Rica.
+La plataforma busca fortalecer la participación informada, ampliar voces históricamente excluidas y contribuir a la construcción colectiva de insumos que puedan incidir en el debate público, la agenda política y los procesos de toma de decisiones.
 
 ## Contacto
 
 **Dirección:** Ciudad Autónoma de Buenos Aires
 
-**Código postal:** 
+**Código postal:**
 
-**Teléfono:** 
+**Teléfono:**
 
 **Correo electrónico:** [it@democracyos.org](mailto:it@democracyos.org)
 ​
+
 ## Tecnología
 
 La Plataforma de Consultas Digitales es un desarrollo basado en la tecnología de DemocracyOS.
