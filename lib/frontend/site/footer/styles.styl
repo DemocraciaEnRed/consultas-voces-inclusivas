@@ -1,5 +1,5 @@
 .ext-footer
-  padding 60px 0
+  padding 60px 0 0 0
   margin-top 30px
   font-size 1em
   background-color #fff
@@ -11,12 +11,17 @@
     display flex
     flex-direction row
     flex-wrap wrap
-    align-items flex-start
+    align-items center
     justify-content space-between
 
   .institutional
     flex-grow 2
-
+    .apoyo-logos
+      .logos
+        display flex
+        img
+          margin-right 15px
+          height 32px
     p
       max-width 560px
   a
@@ -37,11 +42,14 @@
     padding-right 30px
     margin-bottom 30px
     display: flex
-    flex-direction: column
-    align-items: start;
-    img
+    align-items: center;
+    .logo-incubadora
       max-width 100%
       width 300px
+    .logo-movimiento
+      max-width 100%
+      width 150px
+      margin-top 15px
 
   .menu
     padding 0 15px
@@ -72,3 +80,6 @@
 
     .institutional
       padding 0 15px
+.policies
+  text-align: center
+  margin-top:3rem

@@ -109,7 +109,7 @@
     }
   },
   "imgs": {
-    "logo": "/lib/frontend/site/home-multiforum/logo-footer-incubadora",
+    "logo": "/lib/frontend/site/home-multiforum/logo-voces",
     "logoMobile": "/lib/frontend/site/home-multiforum/logo-footer-incubadora",
     "logoFooter": "/lib/frontend/site/home-multiforum/logo-footer-incubadora",
     "logoCentralHome": "/lib/frontend/site/home-multiforum/logo-central-home",
@@ -121,7 +121,7 @@
   },
   "organizationName": "Voces Inclusivas CR",
   "organizationEmail": "it@democracyos.org",
-  "bajadaPlataforma": "Espacio de participación y deliberación ciudadana que reúne los debates sobre discapacidad, inclusión y democracia en Costa Rica, con el objetivo de incidir en la agenda pública y política.",
+  "bajadaPlataforma": "Espacio de participación y deliberación ciudadana que reúne los debates sobre discapacidad, inclusión y democracia en Costa Rica, con el objetivo de incidir en la agenda pública y política en el marco del proceso electoral nacional 2026.",
   "organizationUrl": "https://github.com/DemocraciaEnRed/consultas-voces-inclusivas",
   "learnMoreUrl": "",
   "googleAnalyticsTrackingId": "",
