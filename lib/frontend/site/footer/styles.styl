@@ -4,7 +4,8 @@
   font-size 1em
   background-color #fff
   border-top: 1px solid rgba(0, 0, 0, 0.1)
-
+  @media only screen and (max-width: 768px)
+      margin-top: 8px
   .footer
     max-width 1180px
     margin 0 auto
@@ -13,18 +14,31 @@
     flex-wrap wrap
     align-items center
     justify-content space-between
+    gap: 1rem
 
   .institutional
     flex-grow 2
+    @media only screen and (max-width: 768px)
+      margin-bottom 2rem
+
     .impulsan-logos
+      @media only screen and (max-width: 768px)
+        margin-bottom 2rem
       .logos
         display flex
+        flex-wrap: wrap
+        @media only screen and (max-width: 768px)
+          justify-content center
         img
           margin-right 15px
           height 96px
     .apoyo-logos
       .logos
         display flex
+        gap: 1rem
+        flex-wrap: wrap
+        @media only screen and (max-width: 768px)
+          justify-content center
         img
           margin-right 15px
           height 32px
@@ -42,7 +56,8 @@
   .menu
     padding 0 15px
     text-align left
-
+    @media only screen and (max-width: 768px)
+      text-align: center
     &:first-of-type
       flex-grow 3
 
@@ -61,10 +76,6 @@
       a
         display block
         line-height 1em
-
-    .gob
-      img
-        width 300px
 
     .institutional
       padding 0 15px
