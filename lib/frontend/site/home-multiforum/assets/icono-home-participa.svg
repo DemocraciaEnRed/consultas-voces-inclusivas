@@ -2,130 +2,88 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   id="svg77"
-   width="512"
-   height="512"
-   viewBox="0 0 512 512"
-   sodipodi:docname="008-charity.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata83">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   id="svg9"
+   width="1722.4"
+   height="1814.1733"
+   viewBox="0 0 1722.4 1814.1733"
+   sodipodi:docname="DER_VocesInclusivas_Iconos.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs81" />
+     id="defs13">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath25">
+      <path
+         d="M 0,1360.631 H 1291.799 V 0 H 0 Z"
+         id="path23" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
+     id="namedview11"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="776"
-     inkscape:window-height="480"
-     id="namedview79"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.4609375"
-     inkscape:cx="256"
-     inkscape:cy="256"
+     inkscape:zoom="0.13008679"
+     inkscape:cx="-964.7405"
+     inkscape:cy="907.08669"
+     inkscape:window-width="2560"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg77" />
-  <image
-     width="512"
-     height="512"
-     preserveAspectRatio="none"
-     xlink:href="data:image/png;base64,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
-x7X8oLRA13wAAAAASUVORK5CYII=
-"
-     id="image85"
-     x="0"
-     y="0" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g17" />
+  <g
+     id="g17"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1814.1733)">
+    <g
+       id="g19">
+      <g
+         id="g21"
+         clip-path="url(#clipPath25)">
+        <g
+           id="g27"
+           transform="translate(428.9815,18.3857)">
+          <path
+             d="M 0,0 C -3.14,0.548 -4.518,-2.222 -7.497,-2.544 -9.86,-2.8 -11.022,0.039 -9.989,-4.984 Z m 26.634,51.638 -4.978,-0.003 c -0.167,-3.533 -0.665,-6.221 2.494,-8.307 l 3.801,4.118 z m 71.635,11.66 -4.174,1.609 c -5.059,-4.641 -6.177,-10.599 2.499,-9.944 z m 116.579,31.646 c 0.46,7.776 -11.223,14.83 -10.056,4.139 0.539,-4.94 5.987,-5.879 10.056,-4.139 m -89.094,28.304 c -1.013,-0.291 -3.044,-2.854 -2.502,-4.144 l 4.171,-4.172 c 6.972,0.67 4.552,10.101 -1.669,8.316 m -47.479,13.328 h -6.656 l 0.002,-4.988 c 3.086,-0.381 4.857,-0.088 6.65,2.506 z m -73.283,4.996 c -4.785,2.163 -5.714,-9.263 -4.988,-9.985 l 4.989,-0.01 z m 213.195,33.31 c -0.092,-4.837 3.628,-6.915 6.653,-2.481 l -2.493,4.134 z m -204.868,10.003 1.653,4.16 c -1.523,1.775 -2.507,3.023 -4.975,2.493 v -6.654 z m 24.155,14.968 c -5.518,-3.935 0.212,-9.665 4.148,-4.147 z m 91.653,9.959 -2.544,-2.46 2.544,-4.101 h 4.897 l 2.544,4.101 -2.544,2.46 z m -74.986,41.684 c -4.208,-1.166 -2.05,-7.677 1.642,-6.654 4.208,1.167 2.05,7.677 -1.642,6.654 m 55.787,13.324 -4.159,-0.004 -2.503,-4.143 c 2.605,-3.548 5.698,-3.564 8.306,-0.013 z m 16.651,43.316 c 2.82,-0.728 11.032,2.38 9.989,5.809 -2.082,6.841 -10.108,-0.232 -9.989,-5.809 m -89.942,24.97 -4.151,-0.004 -2.49,-2.49 2.49,-2.49 4.151,-0.004 z m 110.769,18.317 c -3.334,-0.956 -3.334,-7.355 0,-8.311 7.657,-2.196 7.657,10.507 0,8.311 M 9.989,373.079 5,373.078 l 1.671,-8.318 1.647,0.001 z m 1.674,36.649 4.151,0.004 2.49,2.49 -4.135,2.495 z m 130.751,21.644 -2.507,-4.148 c 6.248,-9.269 9.16,2.759 4.148,4.148 z m -90.784,8.329 c -0.977,-6.312 4.166,-9.346 8.32,-4.153 l -2.616,5.774 z m -24.137,18.319 -2.507,-4.148 4.173,-4.172 4.13,2.489 z m 100.747,3.331 c -3.086,0.381 -4.856,0.088 -6.649,-2.507 l -0.004,-2.481 6.655,-10e-4 z m -56.624,16.65 -6.657,1.671 v -4.989 l 4.152,0.004 z m 53.293,6.675 -1.609,5.877 -6.71,0.777 c -0.223,-4.269 3.891,-7.39 8.319,-6.654 m -30.795,24.975 c -0.7,-0.194 -1.623,-1.898 -2.494,-2.494 l 4.147,-4.148 c 4.45,2.171 1.626,7.551 -1.653,6.642 m -10.843,11.667 -0.003,2.482 c -7.213,9.808 -8.286,-4.055 -4.157,-4.135 z M 61.623,654.555 c -3.359,-2.361 -11.325,3.012 -9.992,-3.319 l 9.989,-1.674 z m 68.442,154.736 c -0.394,-0.284 -2.05,-5.648 -1.658,-7.046 2.372,-5.349 9.497,-6.363 12.401,-1.149 2.357,4.231 -5.836,11.724 -10.743,8.195 m 61.474,5.158 5.768,-1.671 2.55,4.152 -2.502,2.502 -5.813,-2.502 z m -98.275,86.596 -4.204,-1.615 -0.784,-6.703 4.152,0.004 c 4.173,2.725 1.378,4.444 0.836,8.314 m 36.642,18.322 -4.152,-0.004 c -3.361,-2.578 -3.361,-4.068 0,-6.646 l 4.152,-0.004 z m 4.996,33.31 h -4.988 v -4.988 h 4.988 z m 6.671,-4.988 4.988,2.506 -2.494,4.135 -2.49,-2.49 z m -51.631,4.994 c -0.69,-12.542 14.375,-4.784 4.996,0.924 z m 156.548,1.654 c -3.044,-0.002 -5.119,1.825 -7.497,3.348 -2.072,1.327 -3.164,1.989 -4.148,-0.849 -1.379,-5.77 4.584,-5.769 8.324,-5.088 1.401,0.255 3.825,0.654 3.321,2.589 m -57.454,6.655 -4.148,-4.147 2.49,-2.49 h 3.315 l 2.49,2.49 z m 80.622,5.17 c 0.388,0.278 2.059,5.649 1.66,7.045 l -7.188,6.071 c -5.112,-2.59 -7.072,-12.219 -0.158,-13.302 1.321,-0.206 4.961,-0.334 5.686,0.186 m -64.805,18.168 1.654,4.16 -4.135,2.494 c -3.364,-2.58 -3.37,-4.074 0,-6.65 z m -174.033,13.312 -2.49,-2.49 5.805,-2.491 2.49,2.491 z m 282.292,8.331 c -3.086,0.381 -4.856,0.088 -6.65,-2.506 l -0.007,-2.478 6.657,-1.67 z m -141.564,6.675 c -0.414,2.267 -5.275,6.367 -6.658,4.984 l -0.002,-4.988 h 6.66 z m -123.916,29.894 c -7.029,-1.572 -3.32,-11.701 3.154,-9.914 5.297,1.463 0.953,10.832 -3.154,9.914 m 92.267,-6.581 c 0.66,5.724 -0.479,9.244 -6.654,8.319 -0.66,-5.724 0.479,-9.244 6.654,-8.319 m -49.957,31.636 0.004,-2.482 c 2.839,-7.158 16.021,2.873 -0.004,2.482 m -61.624,0.01 h 4.151 l 2.491,2.49 -4.136,2.494 -2.506,-4.988 z m 179.867,26.64 h -4.988 l 0.004,-4.152 2.49,-2.49 2.49,2.49 z m -78.279,3.331 c -3.157,0.645 -4.468,-2.153 -6.642,-4.16 l 2.481,-2.481 4.167,1.656 z m 183.206,18.328 c 0.381,3.087 0.088,4.857 -2.506,6.65 h -2.482 c -0.381,-3.086 -0.088,-4.857 2.506,-6.65 z m -244.821,24.984 5.768,-1.671 2.551,4.152 -2.503,2.503 -5.813,-2.503 z m 54.953,13.323 c 0.381,3.086 0.088,4.857 -2.507,6.65 h -2.481 v -6.656 h 4.988 z m 31.653,41.638 h 2.482 l 2.47,5.78 -4.952,2.535 v -8.319 z m -174.887,23.317 c 0.167,3.532 0.664,6.221 -2.494,8.307 -3.159,-2.086 -2.662,-4.775 -2.494,-8.307 z m 73.37,28.393 c 0.166,-0.16 3.959,-1.531 4.314,-1.593 4.896,-0.852 5.361,8.739 1.424,9.829 -5.763,1.597 -7.289,-6.739 -5.738,-8.236 m -80.861,-1264.207 52.419,861.948 -2.461,19.1 -33.814,27.81 -42.045,347.652 49.973,5.869 23.301,-147.413 18.215,1.954 -19.519,197.073 57.517,1.933 10.685,-193.691 23.139,0.315 -8.363,235.661 59.563,0.682 0.419,-43.125 0.003,-191.546 25.267,0.741 -0.682,210.514 55.47,0.455 c 0,0 2.709,-90.231 3.269,-117.565 1.003,-48.947 1.57,-146.559 1.57,-146.559 l -55.535,-42.782 9.052,-15.652 45.653,29.285 25.532,19.437 c 0,0 3.359,18.484 4.908,26.737 5.501,29.324 13.902,88.53 13.902,88.53 l 64.058,-8.073 -17.474,-169.257 -5.196,-16.456 -4.951,-3.377 c 0,0 -73.918,-69.134 -109.608,-105.244 -1.831,-11.661 9.716,-242.057 9.716,-242.057 0,0 -2.253,2.806 -2.896,4.579 -2.626,7.241 -5.583,14.772 -7.924,22.063 -3.026,9.421 -9.507,33.796 -9.507,33.796 l -4.099,4.347 -92.122,-19.861 45.772,-218.141 80.513,-74.38 1.884,-33.091 c 0,0 21.235,-352.211 20.864,-352.211 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path29" />
+        </g>
+        <g
+           id="g31"
+           transform="translate(1278.3887,95.0113)">
+          <path
+             d="M 0,0 C 0.381,3.086 0.088,4.857 -2.506,6.65 L -4.988,6.654 C -5.369,3.568 -5.076,1.797 -2.482,0.004 Z m -191.534,33.31 -0.004,4.152 -2.49,2.49 -2.494,-4.135 z m 12.496,11.639 -4.084,-5.642 4.084,-4.319 4.083,5.641 z m -54.134,0.012 -4.151,-0.004 c -3.362,-2.578 -3.362,-4.068 0,-6.646 l 4.151,-0.004 z m 114.305,86.452 c -4.817,-1.02 -7.283,-12.31 -0.232,-13.235 13.497,-1.769 7.953,14.871 0.232,13.235 m 60.582,1.828 c 3.533,-0.167 6.221,-0.665 8.308,2.494 l -4.16,4.16 -4.144,-2.502 z m -99.94,91.6 c -0.824,0.897 -7.646,-2.327 -8.242,-4.3 -2.49,-8.251 15.602,-12.078 8.242,4.3 m 66.312,11.985 c 1.343,1.353 2.464,6.673 1.875,8.672 -0.611,2.073 -6.899,4.343 -8.258,3.574 -10.87,-6.147 0.936,-17.734 6.383,-12.246 m -136.262,76.29 -0.004,4.152 -2.49,2.49 -2.49,-2.49 -0.004,-4.152 z m 23.245,16.727 c 4.876,9.682 -7.866,14.893 -9.176,3.251 z m 85.013,14.91 h -6.654 v -6.654 c 2.404,-0.087 4.487,-0.535 5.847,1.64 z m -48.291,3.339 4.151,0.004 c 3.362,2.578 3.362,4.068 0,6.646 l -4.151,0.004 z m 60.798,24.975 -4.172,-4.172 c 3.207,-10.282 14.455,0.966 4.172,4.172 m -49.123,71.641 8.209,2.578 c 3.075,11.009 -12.909,8.969 -8.209,-2.578 m 96.575,9.977 c 0.659,5.724 -0.48,9.244 -6.654,8.319 -0.66,-5.723 0.479,-9.244 6.654,-8.319 m -47.463,34.955 -4.148,-4.147 2.49,-2.49 h 3.315 l 2.49,2.49 z m -69.116,35 c 10.411,-6.264 13.981,7.37 5.813,8.329 -2.272,1.489 -6.53,-7.686 -5.813,-8.329 m 91.605,4.994 4.16,-1.654 2.493,4.135 c -2.58,3.364 -4.073,3.37 -6.65,0 z m -121.583,28.313 c 4.834,-0.093 6.919,3.63 2.482,6.65 l -2.482,0.004 z m 14.992,28.312 c 6.963,0.951 8.437,8.284 2.492,11.64 l -3.995,-4.45 z m 131.56,56.624 -4.984,-4.175 c 0.549,-4.457 3.94,-5.727 6.66,-1.597 z m 44.973,6.659 h -6.653 c 0.153,-9.518 7.956,-11.152 6.653,0 m -201.526,6.662 c -2.489,0.366 -7.778,0.117 -8.32,-2.507 -1.139,-5.518 10.443,-6.13 8.32,2.507 m 183.206,3.339 -0.004,4.151 -2.49,2.491 -2.494,-4.136 z m -243.166,28.305 c -4.836,0.092 -6.915,-3.629 -2.481,-6.653 l 4.135,2.493 z m 120.729,43.077 c -5.642,-4.037 -8.004,-10.303 -0.833,-13.947 6.566,-3.337 9.917,1.728 8.103,8.099 z m 104.116,3.558 h -4.988 v -4.988 h 4.988 z m -43.303,24.983 h -4.988 v -4.988 h 4.988 z m -69.952,3.33 -4.16,1.653 -2.481,-2.48 1.654,-4.16 2.481,0.003 z m -48.299,-4.988 -4.16,6.642 -2.494,-4.135 2.502,-2.503 z m -23.318,44.961 c -3.642,4.387 -7.411,-11.844 -2.481,-13.312 z m -121.574,-3.323 4.152,0.004 2.49,2.49 -4.135,2.494 z m 18.321,18.321 4.151,0.004 c 3.362,2.577 3.362,4.068 0,6.645 l -4.151,0.004 z m 246.496,78.271 c -3.673,-10.338 8.34,-13.09 9.919,-5.67 0.833,3.911 -6.753,6.904 -9.919,5.67 m -89.946,23.317 h -4.989 l 0.004,-4.152 2.491,-2.49 2.49,2.49 z m 96.599,14.989 -4.988,-2.506 2.494,-4.135 2.49,2.49 z m -32.874,-127.49 6.968,187.548 55.795,-1.856 -13.235,-194.775 16.755,0.744 18.968,145.918 47.641,-2.766 c 0,0 -13.323,-211.101 -21.782,-301.234 l -2.432,-25.881 -35.054,-24.905 -2.394,-22.499 c 0,0 25.549,-262.243 38.314,-393.054 l 19.941,-220.737 -264.837,-2.511 c 0,0 23.304,416.485 31.703,611.216 0.239,5.534 0.734,14.98 -0.01,20.066 -0.534,3.652 -10.825,9.569 -14.191,12.456 -35.011,30.037 -70.227,59.712 -105.589,89.276 l -40.84,186.421 57.289,8.525 37.544,-132.626 75.25,-43.137 11.415,14.856 -42.049,22.933 -27.243,34.606 -1.721,232.268 54.22,0.682 4.203,-202.289 23.326,1.671 -3.429,224.105 55.355,0.042 -3.364,-225.035 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path33" />
+        </g>
+        <g
+           id="g35"
+           transform="translate(300.7391,70.0236)">
+          <path
+             d="M 0,0 1.616,5.703 -4.158,8.321 -6.661,1.677 Z m -53.298,56.62 c -3.078,1.11 -8.166,-5.142 -6.658,-6.649 l 4.923,0.031 z m 7.504,39.974 c -5.351,-1.582 -0.857,-10.834 3.155,-9.908 6.557,1.512 2.832,11.677 -3.155,9.908 m -90.784,14.992 -4.151,-0.004 -2.491,-2.49 2.491,-2.49 4.151,-0.004 z m -38.311,19.99 -4.972,-4.163 c 2.57,-3.352 4.06,-3.353 6.629,-10e-4 z m 68.29,11.655 -4.151,-0.004 c -5.515,-2.296 2.652,-8.149 4.151,-6.65 z m 63.29,8.325 -1.654,8.33 c -0.101,-1.613 0.883,-4.276 -1.12,-5.073 -1.952,-0.777 -2.898,0.931 -2.215,-3.246 z m -151.562,24.985 -4.151,-0.004 -2.49,-2.489 1.657,-4.167 4.984,0.004 z m 79.865,61.545 c -0.166,0.16 -3.959,1.532 -4.314,1.593 -4.896,0.852 -5.36,-8.739 -1.423,-9.829 5.762,-1.597 7.288,6.739 5.737,8.236 m 46.714,10.072 -4.151,-0.004 -2.491,-2.49 4.136,-2.494 z m -64.955,18.321 -2.483,-0.003 c -4.924,-4.837 -5.41,-8.879 2.483,-8.316 z m 48.311,29.976 -13.327,3.334 c -0.817,-4.723 1.068,-2.724 3.709,-3.706 2.964,-1.101 11.199,-5.799 9.618,0.372 m 19.383,31.511 c -9.002,-2.613 -3.076,-19.843 8.934,-12.356 4.422,2.756 -4.122,13.752 -8.934,12.356 m -61.032,21.788 c -3.455,0.192 -6.259,0.595 -8.319,-2.506 v -1.641 c 2.06,-3.101 4.864,-2.698 8.319,-2.506 z m 84.626,122.942 c -7.066,6.981 -13.687,-7.702 -0.522,-6.343 2.791,0.802 2.126,4.759 0.522,6.343 m -78.78,93.575 c -3.511,-1.734 -3.237,-7.422 0,-8.319 3.789,-1.051 6.24,6.01 1.641,8.319 z m 144.054,13.32 -8.323,0.004 0.004,-4.151 2.502,-2.503 1.643,-10e-4 z m -179.879,13.328 c -5.339,2.123 -7.97,-4.772 -4.147,-8.315 z m -76.615,29.979 -4.204,-1.615 -0.783,-6.704 4.151,0.004 c 4.174,2.726 1.378,4.445 0.836,8.315 m 109.927,29.98 h -6.656 l 0.004,-6.658 6.62,1.733 z m -96.593,-3.323 c 3.533,-0.163 6.22,-0.667 8.307,2.494 l -5.772,2.457 z M 73.277,691.18 64.97,687.024 c 1.765,-1.703 2.185,-3.726 4.011,-0.667 1.999,3.348 3.512,2.346 4.296,4.823 m -251.485,1.67 c -2.123,-8.637 9.459,-8.025 8.32,-2.506 -0.542,2.624 -5.831,2.872 -8.32,2.506 m 141.561,18.321 h -6.654 c -0.093,-4.834 3.63,-6.919 6.65,-2.482 z m -218.178,16.656 4.164,-8.309 4.161,7.466 z m 124.909,133.24 h -4.988 v -4.988 h 4.988 z m 48.461,-129.752 24.364,1.407 -9.537,199.971 52.163,1.962 11.19,-256.016 -58.115,-36.844 10.944,-15.312 67.903,39.752 30.737,124.155 55.841,-8.847 -33.164,-193.591 -108.398,-78.253 -2.449,-4.201 69.958,-537.141 -227.302,3.375 -37.532,0.768 31.605,536.359 0.988,9.164 -42.586,24.089 -2.564,5.764 -53.33,303.232 55.906,3.304 24.865,-135.619 1.12,-1.036 17.328,1.774 -26.585,186.309 56.52,5.164 20.779,-184.302 19.231,1.132 c 0,0 -4.257,37.452 -4.884,44.247 -4.41,47.772 -14.366,180.687 -14.366,180.687 0,0 7.903,1.025 11.804,1.52 10.412,1.322 47.83,4.862 47.83,4.862 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path37" />
+        </g>
+        <g
+           id="g39"
+           transform="translate(793.7247,55.0391)">
+          <path
+             d="M 0,0 -4.16,8.307 -8.307,4.16 Z m -43.159,38.165 -1.067,-6.502 c 6.257,-10.801 20.41,9.048 1.067,6.502 M 74.948,54.954 H 69.96 v -4.988 h 4.988 z m -99.929,-4.993 c 0.907,3.971 3.554,7.39 -2.483,8.323 -5.894,-4.211 -5.494,-8.702 2.483,-8.323 M 85.787,98.254 c -5.499,-1.597 -1.014,-11.625 4.975,-9.983 4.924,1.35 0.642,11.615 -4.975,9.983 M 3.339,109.915 c 11.293,-1.567 11.585,9.802 0,8.337 z M 6.67,216.517 c 9.179,-1.488 10.686,10.55 2.503,8.315 -2.789,-0.762 -2.781,-5.895 -2.503,-8.315 m 24.975,36.641 c 2.123,8.637 -9.458,8.025 -8.32,2.506 0.542,-2.624 5.831,-2.872 8.32,-2.506 M -7.479,286.46 c -7.08,-1.963 1.99,-15.363 5.814,-4.171 l -4.172,4.172 c -0.574,0.096 -1.133,0.14 -1.642,-0.001 m 102.258,23.168 c -7.483,1.715 -8.406,-1.719 -6.487,-8.16 l 7.527,1.622 z m -98.11,21.801 h -6.654 c -0.092,-4.834 3.631,-6.919 6.65,-2.482 z m -58.285,11.658 4.161,-1.644 c 3.551,2.608 3.534,5.701 -0.013,8.306 l -4.144,-2.502 z m 48.292,10.002 -4.171,6.654 -4.136,-2.495 z m 44.977,58.285 -8.337,0.002 c -1.81,-14.212 9.028,-11.961 8.337,-0.002 m -114.929,18.328 -0.004,6.658 -4.984,-1.67 0.004,-2.481 1.653,-1.682 z m 201.527,29.979 c 0.779,4.778 -1.092,9.953 -6.651,9.987 l -1.618,-7.351 z m -88.264,28.306 c -0.366,-2.489 -0.117,-7.778 2.507,-8.319 5.518,-1.139 6.13,10.443 -2.507,8.319 m -46.642,8.336 c 0.092,4.834 -3.631,6.919 -6.65,2.482 l -0.004,-2.482 z m 89.938,29.971 h -4.988 v -4.988 h 4.988 z m -254.824,1.665 -4.151,-0.004 c -3.362,-2.578 -3.362,-4.068 0,-6.646 l 4.151,-0.004 z M 5,527.954 7.499,524.649 c 4.733,3.446 6.31,7.671 -0.83,8.305 z m 123.244,11.664 h -4.988 v -4.988 h 4.988 z m -56.619,48.308 4.989,2.506 -2.495,4.136 -2.49,-2.491 z m -159.897,121.582 -1.64,5.847 -5.014,0.807 1.64,-5.847 z m 100.173,58.318 0.682,-212.56 17.497,-1.583 c 0,0 2.639,40.684 3.19,60.099 0.649,22.941 0.711,128.014 0.711,128.014 l 54.305,0.114 -6.518,-193.803 19.927,-1.085 10.803,124.868 52.399,-5.684 c 0,0 -10.361,-218.192 -16.554,-279.087 -0.648,-6.368 -3.362,-19.955 -3.362,-19.955 l -27.599,-22.367 -7.356,-14.143 c 0,0 34.91,-207.509 51.676,-311.361 3.409,-21.116 11.42,-72.499 11.42,-72.499 l -230.651,-1.833 -22.456,362.277 -2.037,33.787 -11.155,6.317 -87.521,64.041 -45.003,196.559 47.485,10.902 46.674,-128.325 c 0,0 27.588,-12.768 41.616,-18.342 7.458,-2.964 27.847,-10.549 27.847,-10.549 l 11.946,13.58 c 0,0 -44.499,20.921 -54.278,25.787 -2.793,1.39 -7.671,3.32 -8.576,6.414 l -8.514,241.115 59.745,3.048 c 0,0 2.876,-118.492 3.512,-142.787 0.457,-17.456 0.767,-52.529 0.767,-52.529 l 20.893,-0.591 -3.384,212.132 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path41" />
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>
