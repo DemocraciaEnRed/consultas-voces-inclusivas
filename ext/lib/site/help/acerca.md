@@ -17,6 +17,6 @@ La plataforma busca fortalecer la participación informada, ampliar voces histó
 
 ## Tecnología
 
-La Plataforma de Consultas Digitales es un desarrollo basado en la tecnología de DemocracyOS.
+La Plataforma de Consultas Digitales es un desarrollo basado en la tecnología de DemocraciaOS.
 
-**DemocracyOS** es una plataforma online de [código abierto](https://github.com/DemocracyOS) especialmente diseñada para informar, debatir y votar propuestas públicas hacia la construcción de una democracia adaptada al siglo XXI.
+**DemocraciaOS** es una plataforma online de [código abierto](https://github.com/DemocracyOS) especialmente diseñada para informar, debatir y votar propuestas públicas hacia la construcción de una democracia adaptada al siglo XXI.

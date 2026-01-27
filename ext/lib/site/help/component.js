@@ -22,7 +22,7 @@ export default class HelpLayout extends PureComponent {
       slug: 'acerca',
       path: '/ayuda/acerca'
     },
-        {
+    {
       title: 'Estadísticas',
       Content: Stats,
       slug: 'estadisticas',
@@ -40,19 +40,19 @@ export default class HelpLayout extends PureComponent {
       slug: 'privacidad',
       path: '/ayuda/privacidad'
     },
-    {
+    /* {
       title: t('help.markdown.title'),
       Content: MarkdownGuide,
       slug: 'markdown',
       path: '/ayuda/markdown'
-    }
+    } */
   ]
 
   componentDidMount() {
     window.scrollTo(0, 0);
   }
 
-  render () {
+  render() {
     const article = this.props.params.article || this.articles[0].slug
     const active = this.articles.find((art) => art.slug === article)
 
