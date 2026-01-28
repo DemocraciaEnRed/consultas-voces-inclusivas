@@ -17,8 +17,10 @@
     gap: 1rem
 
   .institutional
-    flex-grow 2
+    width:36%
     @media only screen and (max-width: 768px)
+      text-align: center
+      width:100%
       margin-bottom 2rem
 
     .impulsan-logos
@@ -27,21 +29,24 @@
       .logos
         display flex
         flex-wrap: wrap
-        @media only screen and (max-width: 768px)
-          justify-content center
-        img
-          margin-right 15px
-          height 96px
-    .apoyo-logos
-      .logos
-        display flex
         gap: 1rem
-        flex-wrap: wrap
+        justify-content space-between
         @media only screen and (max-width: 768px)
           justify-content center
-        img
-          margin-right 15px
-          height 32px
+        a  
+          width: 45%
+          display: flex
+          justify-content center
+          align-items: center
+          img
+            width: 190px
+            &.logo-incubadora
+              width: 200px
+            &.logo-politize
+              width: 180px
+            &.logo-cpi
+              width: 200px
+    
     p
       max-width 560px
   a
@@ -56,10 +61,16 @@
   .menu
     padding 0 15px
     text-align left
-    @media only screen and (max-width: 768px)
+    width:30%
+    &.nav
       text-align: center
-    &:first-of-type
-      flex-grow 3
+    &.pol
+      text-align: right
+      @media only screen and (max-width: 768px)
+        text-align: center
+    @media only screen and (max-width: 768px)
+      width:100%
+      text-align: center
 
     a
       display block

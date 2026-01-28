@@ -6,7 +6,7 @@ const raw = require('es6-string-html-template').raw
 const juice = require('juice');
 
 const baseUrl = utils.buildUrl(config)
-const fontFamily = 'Roboto, sans-serif'
+const fontFamily = 'Inclusive Sans, sans-serif'
 const colorBotones = '#c5aaf7'
 
 // template sacado de: https://github.com/leemunroe/responsive-html-email-template
@@ -19,6 +19,9 @@ module.exports = ({
       <meta name="viewport" content="width=device-width" />
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       <title>${config.organizationName}</title>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet">
       <style>
         /* -------------------------------------
             GLOBAL RESETS
