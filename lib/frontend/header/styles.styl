@@ -109,12 +109,13 @@
   padding-right: 0
   height: header-height
   box-shadow: 0 2px 2px rgba(#000, .2)
-  color: $primary-color
+  color: $primary-color-hover
   background-color: #fff
 
   .header-item.active .header-link,
   .header-link:hover
-    color: #fff
+    color: #000
+    font-weight: 600
     background-color: $primary-color-hover
 
   .header-link
@@ -128,8 +129,8 @@
     margin-top: 15px;
     line-height: 43px;
     &.anon-user
-      background-color: $primary-color
-      color: white
+      background-color: $primary-color-hover
+      color: #000
       &:hover
         background-color: $primary-color-hover
 
@@ -158,7 +159,7 @@
     position: absolute
     top: 72px
     right: 0
-    color: #fff
+    color: #000
     border: none
     width: 232px
     background-color: $primary-color
@@ -201,7 +202,7 @@ nav.navbar
     top: 13px
     color: #888
     &:active,&:hover
-      color: #fff
+      color: #000
       background-color: $primary-color
 
   .user-badge
