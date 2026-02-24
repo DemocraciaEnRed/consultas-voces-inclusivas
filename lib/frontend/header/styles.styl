@@ -14,6 +14,11 @@
   padding-right: 7px
   padding-left: 7px
   z-index: 1030
+  .header-items-wrapper
+    display: flex
+    justify-content: space-between
+    align-items: center
+    height 100%
 
   &.with-contrast
     box-shadow: 0 -1px 8px rgba(#d5d5d5, .8)
@@ -40,12 +45,12 @@
         display: block
 
   .header-items
-    height: 100%
+    
     text-align: right
 
   .header-item
     display: inline-block
-    height: 100%
+    
     vertical-align: top
 
   .header-link
@@ -102,7 +107,7 @@
 
 /* ext */
 .ext-header
-  header-height = 72px
+  header-height = 90px
 
   position: relative
   padding-left: 0
@@ -126,7 +131,6 @@
     font-size: 15px
     height: 43px;
     line-height: header-height
-    margin-top: 15px;
     line-height: 43px;
     &.anon-user
       background-color: $primary-color-hover
@@ -138,6 +142,8 @@
     margin: 12px 0 0 0
     padding: 0
 
+    @media (min-width: 380px)
+      margin-left: 1em
     img
       height: 48px
       max-width: 100%
