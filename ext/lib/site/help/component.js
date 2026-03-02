@@ -49,7 +49,30 @@ export default class HelpLayout extends PureComponent {
   ]
 
   componentDidMount() {
-    window.scrollTo(0, 0);
+    this.handleHashScroll();
+  }
+
+  componentDidUpdate(prevProps) {
+    // Si cambió la ruta
+    if (prevProps.location !== this.props.location) {
+      this.handleHashScroll();
+    }
+  }
+
+  handleHashScroll() {
+    const { hash } = this.props.location;
+
+    if (hash) {
+      // pequeño delay para esperar que el HTML (dangerouslySetInnerHTML) renderice
+      setTimeout(() => {
+        const el = document.querySelector(hash);
+        if (el) {
+          el.scrollIntoView({ behavior: "smooth" });
+        }
+      }, 0);
+    } else {
+      window.scrollTo(0, 0);
+    }
   }
 
   render() {

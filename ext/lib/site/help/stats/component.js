@@ -6,7 +6,7 @@ import Sidebar from 'ext/lib/site/help/sidebar/component'
 import MarkdownGuide from 'lib/frontend/site/help/md-guide/component'
 
 export default class Stats extends PureComponent {
-  constructor (props) {
+  constructor(props) {
     super(props)
     this.state = {
       isFetching: true,
@@ -21,19 +21,19 @@ export default class Stats extends PureComponent {
     }
   }
 
-  componentDidMount(){
+  componentDidMount() {
     this.fetchStats()
   }
 
-  fetchStats () {
+  fetchStats() {
     fetch('/ext/api/stats/forums', {
-        method: 'GET',
-        credentials: 'same-origin',
-        headers: {
-          Accept: 'application/json',
-          'Content-Type': 'application/json'
-        }
-      })
+      method: 'GET',
+      credentials: 'same-origin',
+      headers: {
+        Accept: 'application/json',
+        'Content-Type': 'application/json'
+      }
+    })
       .then(res => res.ok && res.json())
       .then(stats => {
         this.setState({
@@ -49,35 +49,36 @@ export default class Stats extends PureComponent {
       })
       .catch(err => {
         console.error(err)
-        this.setState({error: 'fetch topics error'})
+        this.setState({ error: 'fetch topics error' })
       })
   }
-  render () {
+  render() {
     return (
       <div className="stats">
+        <h1 id="estadisticas">Estadísticas</h1>
         <div className="forums-total-container clearfix">
           <div className="data-title text-center">Consultas en total</div>
           <div className="data-value text-center">{this.state.countForums}</div>
         </div>
-        <br/>
+        <br />
         <div className="row">
           <div className="col-md-6">
-          <h4 className="subtitle text-center">Total de ejes</h4>
-          <h2 className="text-center text-primary">{this.state.countTopics}</h2>
+            <h4 className="subtitle text-center">Total de ejes</h4>
+            <p className="text-center text-primary text h2">{this.state.countTopics}</p>
           </div>
-                    <div className="col-md-6">
-          <h4 className="subtitle text-center">Total<br></br>comentarios</h4>
-          <h2 className="text-center text-primary">{this.state.totalComments}</h2>
+          <div className="col-md-6">
+            <h4 className="subtitle text-center">Total<br></br>comentarios</h4>
+            <p className="text-center text-primary text h2">{this.state.totalComments}</p>
           </div>
         </div>
         <div className="row">
           <div className="col-md-6">
-          <h4 className="subtitle text-center">Comentarios<br></br>atentidos</h4>
-          <h2 className="text-center text-primary">{this.state.totalWithOfficialReply}</h2>
+            <h4 className="subtitle text-center">Comentarios<br></br>atentidos</h4>
+            <p className="text-center text-primary text h2">{this.state.totalWithOfficialReply}</p>
           </div>
           <div className="col-md-6">
-          <h4 className="subtitle text-center">Cantidad de<br></br>participantes</h4>
-          <h2 className="text-center text-primary">{this.state.uniqueParticipants}</h2>
+            <h4 className="subtitle text-center">Cantidad de<br></br>participantes</h4>
+            <p className="text-center text-primary text h2">{this.state.uniqueParticipants}</p>
           </div>
         </div>
       </div>
